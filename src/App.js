@@ -9,6 +9,7 @@ function App() {
         <p>
           This is Noter app
         </p>
+        <p>ashok</p>
         
       </header>
     </div>
