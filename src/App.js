@@ -9,11 +9,8 @@ function App() {
         <p>
           This is Noter app
         </p>
-<<<<<<< HEAD
-        <p>ashok</p>
-=======
+        <p>ashok kumar</p>
         <p>Hello All!!</p>
->>>>>>> 13050ce74fac57bb36c452280cf93d7f602fd8ba
         
       </header>
     </div>
