@@ -9,6 +9,10 @@ function App() {
         <p>
           This is Noter app
         </p>
+
+        <p>Hello All!!</p>
+        <p>Vishnu ram</p>
+        <p>Arun</p>
         <p>Ashok</p>
         <p>Hello Everyone!!</p>
         
